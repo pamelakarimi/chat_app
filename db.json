@@ -1,0 +1,74 @@
+{
+  "messages": [
+    {
+      "id": "1",
+      "senderId": "user1",
+      "text": "Hey there! How's your day going?",
+      "timestamp": "2025-08-19T14:40:00.000Z",
+      "isSentByMe": false
+    },
+    {
+      "id": "2",
+      "senderId": "user2",
+      "text": "It's going great, thanks! Just working on a project. You?",
+      "timestamp": "2025-08-19T14:41:00.000Z",
+      "isSentByMe": true
+    },
+    {
+      "id": "3",
+      "senderId": "user1",
+      "text": "Same here. Just finishing up some final touches. Have you seen the latest project designs?",
+      "timestamp": "2025-08-19T14:42:00.000Z",
+      "isSentByMe": false
+    },
+    {
+      "id": "4",
+      "senderId": "user2",
+      "text": "Yes, they look fantastic! I'm excited to get started on the new features.",
+      "timestamp": "2025-08-19T14:43:00.000Z",
+      "isSentByMe": true
+    },
+    {
+      "id": "5",
+      "senderId": "user1",
+      "text": "Me too! Talk to you later.",
+      "timestamp": "2025-08-19T14:44:00.000Z",
+      "isSentByMe": false
+    },
+    {
+      "id": "6",
+      "senderId": "user2",
+      "text": "Sounds good!",
+      "timestamp": "2025-08-19T14:45:00.000Z",
+      "isSentByMe": true
+    },
+    {
+      "id": "7",
+      "senderId": "user1",
+      "text": "Did you get the file I sent yesterday?",
+      "timestamp": "2025-08-19T14:46:00.000Z",
+      "isSentByMe": false
+    },
+    {
+      "id": "8",
+      "senderId": "user2",
+      "text": "Yes, I did. I've already reviewed it and added my comments.",
+      "timestamp": "2025-08-19T14:47:00.000Z",
+      "isSentByMe": true
+    },
+    {
+      "id": "9",
+      "senderId": "user1",
+      "text": "Great! That's a huge help. I'll take a look at them now.",
+      "timestamp": "2025-08-19T14:48:00.000Z",
+      "isSentByMe": false
+    },
+    {
+      "id": "10",
+      "senderId": "user2",
+      "text": "No problem. Let me know if you have any questions.",
+      "timestamp": "2025-08-19T14:49:00.000Z",
+      "isSentByMe": true
+    }
+  ]
+}
