@@ -3,71 +3,71 @@
     {
       "id": "1",
       "senderId": "user1",
-      "text": "Hey there! How's your day going?",
-      "timestamp": "2025-08-19T14:40:00.000Z",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      "timestamp": "2025-08-22T14:40:00.000Z",
       "isSentByMe": false
     },
     {
       "id": "2",
       "senderId": "user2",
-      "text": "It's going great, thanks! Just working on a project. You?",
-      "timestamp": "2025-08-19T14:41:00.000Z",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "timestamp": "2025-08-22T14:41:00.000Z",
       "isSentByMe": true
     },
     {
       "id": "3",
       "senderId": "user1",
-      "text": "Same here. Just finishing up some final touches. Have you seen the latest project designs?",
-      "timestamp": "2025-08-19T14:42:00.000Z",
+      "text": "Sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam.",
+      "timestamp": "2025-08-22T14:42:00.000Z",
       "isSentByMe": false
     },
     {
       "id": "4",
       "senderId": "user2",
-      "text": "Yes, they look fantastic! I'm excited to get started on the new features.",
-      "timestamp": "2025-08-19T14:43:00.000Z",
+      "text": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+      "timestamp": "2025-08-22T14:43:00.000Z",
       "isSentByMe": true
     },
     {
       "id": "5",
       "senderId": "user1",
-      "text": "Me too! Talk to you later.",
-      "timestamp": "2025-08-19T14:44:00.000Z",
+      "text": "Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "timestamp": "2025-08-22T14:44:00.000Z",
       "isSentByMe": false
     },
     {
       "id": "6",
       "senderId": "user2",
-      "text": "Sounds good!",
-      "timestamp": "2025-08-19T14:45:00.000Z",
+      "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+      "timestamp": "2025-08-22T14:45:00.000Z",
       "isSentByMe": true
     },
     {
       "id": "7",
       "senderId": "user1",
-      "text": "Did you get the file I sent yesterday?",
-      "timestamp": "2025-08-19T14:46:00.000Z",
+      "text": "Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+      "timestamp": "2025-08-22T14:46:00.000Z",
       "isSentByMe": false
     },
     {
       "id": "8",
       "senderId": "user2",
-      "text": "Yes, I did. I've already reviewed it and added my comments.",
-      "timestamp": "2025-08-19T14:47:00.000Z",
+      "text": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.",
+      "timestamp": "2025-08-22T14:47:00.000Z",
       "isSentByMe": true
     },
     {
       "id": "9",
       "senderId": "user1",
-      "text": "Great! That's a huge help. I'll take a look at them now.",
-      "timestamp": "2025-08-19T14:48:00.000Z",
+      "text": "Consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore.",
+      "timestamp": "2025-08-22T14:48:00.000Z",
       "isSentByMe": false
     },
     {
       "id": "10",
       "senderId": "user2",
-      "text": "No problem. Let me know if you have any questions.",
-      "timestamp": "2025-08-19T14:49:00.000Z",
+      "text": "Et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam.",
+      "timestamp": "2025-08-22T14:49:00.000Z",
       "isSentByMe": true
     }
   ]

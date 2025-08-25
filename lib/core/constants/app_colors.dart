@@ -1,5 +1,3 @@
-// lib/core/constants/app_colors.dart
-// Defines the color palette for the application.
 
 import 'package:flutter/material.dart';
 
@@ -12,4 +10,7 @@ class AppColors {
   static const Color textBubbleOther = Colors.black87;
   static const Color inputFieldColor = Color.fromARGB(255, 237, 237, 237);
   static const Color iconColor = Color(0xFF673AB7);
+  static const Color iconTickColor = Color(0xFF666666); //double ticks
+  static const Color chatAreaBackground = Color(0xFFFCF8FF);
+  static const Color endSessionColor = Color(0xFFBEBEFF);
 }
